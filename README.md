@@ -36,7 +36,7 @@ And you’ll find your presentation in `prepared` folder with only needed files 
 
 	npm run publish
 
-And you’ll have your slides published on `[http://alexander-leitch.github.io/shower/](http://alexander-leitch.github.io/shower/)`.
+And you’ll have your slides published on [`http://alexander-leitch.github.io/shower/`](http://alexander-leitch.github.io/shower/).
 
 ## Usage Examples
 
